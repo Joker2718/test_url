@@ -1,2 +1,2 @@
-# clip4rec
+# RecCLIP
 using clip model to recommendation
